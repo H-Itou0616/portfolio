@@ -1,0 +1,5 @@
+Apple,100,10
+Orange,200,20
+Grape,300,30
+Banana,400,40
+Kiwi,500,50
